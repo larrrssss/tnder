@@ -1,0 +1,12 @@
+{
+  "name": "templa",
+  "version": "1.0.0",
+  "description": "Simple JavaScript template engine.",
+  "main": "src/index.js",
+  "keywords": ["templa", "template", "engine", "javascript", "render", "parse"],
+  "author": "larsv1",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.16.0"
+  }
+}

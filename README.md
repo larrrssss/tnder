@@ -1,6 +1,6 @@
 # tnder - JavaScript Template Engine
 
-Tnder is a easy to use template render engine written in javascript.
+Tnder is an easy to use template render engine written in javascript.
 
 ## Setup
 

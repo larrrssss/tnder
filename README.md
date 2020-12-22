@@ -1,6 +1,6 @@
-# templa - JavaScript Template Engine
+# tnder - JavaScript Template Engine
 
-Templa is a easy to use template engine written in javascript.
+Tnder is a easy to use template render engine written in javascript.
 
 ## Setup
 
@@ -9,7 +9,7 @@ npm install templa
 ```
 
 ```js
-const templa = require('templa');
+const tnder = require('tnder');
 
-templa('Hello, my name is {{ name }}!', { name: 'larssv1' }); // Hello, my name is larssv1
+tnder('Hello, my name is {{ name }}!', { name: 'larssv1' }); // Hello, my name is larssv1
 ```

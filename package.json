@@ -1,7 +1,7 @@
 {
-  "name": "templa",
+  "name": "tnder",
   "version": "1.0.0",
-  "description": "Simple JavaScript template engine.",
+  "description": "Simple JavaScript template render engine.",
   "main": "src/index.js",
   "keywords": ["templa", "template", "engine", "javascript", "render", "parse"],
   "author": "larsv1",

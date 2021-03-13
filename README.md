@@ -5,7 +5,7 @@ Tnder is an easy to use template render engine written in javascript.
 ## Setup
 
 ```bash
-npm install templa
+npm install tnder
 ```
 
 ```js

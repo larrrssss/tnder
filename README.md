@@ -11,5 +11,5 @@ npm install tnder
 ```js
 const tnder = require('tnder');
 
-tnder('Hello, my name is {{ name }}!', { name: 'larssv1' }); // Hello, my name is larssv1
+tnder('Hello, my name is {{ name }}!', { name: 'larrrssss' }); // Hello, my name is larrrssss
 ```
